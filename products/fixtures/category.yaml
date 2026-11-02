@@ -1,0 +1,12 @@
+- model: products.category
+  pk: 1
+  fields:
+    nomi: mevalar
+- model: products.category
+  pk: 2
+  fields:
+    nomi: kiyimlar
+- model: products.category
+  pk: 3
+  fields:
+    nomi: hayvonlar
